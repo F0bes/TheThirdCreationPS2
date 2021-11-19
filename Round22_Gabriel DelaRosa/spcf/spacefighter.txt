@@ -1,0 +1,38 @@
+Gabriel T. DelaRosa
+gtdelarosa@yahoo.com
+
+
+"SpaceFighter" - A demo for the Playstation2  
+============================================
+
+This is my contribution to the mini-demo compo #22 at theThirdCreation.net.
+
+It is an interactive demo, you can use the right analog stick to rotate the camera 
+horizontally and vertically.  You can also use the left stick to rotate the
+light source horizontally around the ship.
+
+This demo features :
+
+   - 3D textured skybox
+   - alpha-blended particles
+   - gouruad-shaded diffuse lighting
+   - backface culling
+   - antialiasing
+   - 3D camera
+   - moveable light source
+
+
+I have included partial source code.  The base source is the same code used for 
+my PS2Flight demo which is also available in the demo archives of theThirdCreation.net.
+It is based on Dreamtime's tutorials but does not use DreamGL.
+
+
+Thanks to everyone at ps2dev.org and everyone in the PS2 homebrew community for all the
+help and resources.
+
+Thanks to Joseph Contegiaocomo for the space fighter model.
+
+Thanks to the GameInstitute for the skybox textures and for all the
+help in teaching me graphics programming.  Every aspiring game
+programmer should check out their site, wwww.gameinstitute.com.
+

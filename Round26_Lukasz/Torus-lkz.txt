@@ -1,0 +1,17 @@
+"Torus" released on June 5th. 2004 by Lukasz Bruun
+===========================================================
+
+Generated wireframe torus, not exactly what i hoped
+for, but because of bugs, this is the best i could
+do before the deadline.
+
+The demo is written in C++, I will release the source
+eventually along with my lib, which is now a C++ graphics
+only lib.
+
+Until next time, cya.
+
+Lukasz
+
+
+

@@ -1,0 +1,52 @@
+                   ÜÜÜÜÜÜÜÜÜ   ÜÜÜÜ ÜÜÜÜÜÜÜÜÜÜÜ ÜÜÜÜ   ÜÜÜÜ
+                   ÛÛÛÛ   ÛÛÛÛ ÛÛÛÛ Û²²Û   ÛÛÛÛ ÛÛÛÛ ° Û²²Û
+                   Û²²Û   ÛÛÛÛ Û²²Û ÛÛÛÛ °      Û²²Û   ÛÛÛÛ
+                   Û±±ÛÛÛÛÛÛÛ  Û±±Û  ÛÛÛÛÛÛÛÛÛ  Û±±ÛÛÛÛÛÛÛ
+                   Û  Û   Û²²Û Û  Û        ÛÛÛÛ Û  Û   ÛÛÛÛ
+                   Û±±Û ° Û±±Û Û±±Û Û²²Û ° ÛÛÛÛ Û±±Û ° Û±±Û
+                   Û²²Û ° Û²²Û Û²²Û Û²²Û   Û²²Û Û²²Û ° Û²²Û
+                   ÛÛÛÛ   ÛÛÛÛ ÛÛÛÛ ÛÛÛÛÛÛÛÛÛÛÛ ÛÛÛÛ   ÛÛÛÛ
+                   
+                ÚÄÄÄÄ'    RiSK PS2 HOMEBREW PRESENTS:   'ÄÄÄ¿
+ÚÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÚÙ          3D Mutha - For round 16 of the TTC Intro competition!           ÚÙ
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙÙ
+:  Coding   : Raizor                  : :  Release Date: 31-07-2003          :
+³  Graphics : Raizor                  ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ ÚÙ
+³  Music    : eSTRAYk / Paradox       ³
+À¿ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ 
+  
+ÚÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿¿
+ 
+ Notes:
+ 
+ * TURN UP THE VOLUME BEFORE WATCHING THIS DEMO *
+ 
+ This is our third release for PS2.  Once again, another production for
+ Blackdroid's - The Third Creation demo competition (round 16).  Quite Amiga
+ like in style - maybe...
+ 
+ This is my first attempt at 3D graphics (aside from some bad OpenGL fiddling on
+ PC, err, and some DirectX bullshit a while ago that didn't work. This intro was
+ put together to ensure I had my head round it. Still lots of work to do, a
+ model importer will be needed (maybe for the next entry!).
+ 
+ You'll need a pad plugged in for this one as it's a little interactive.
+ Pressing CROSS will increase number of cubes, CIRCLE will reduce. SQUARE and
+ TRIANGLE will increase/decrease cube offsets. R2 and L2 increase, reduce the
+ amount of stars. The START button will restore all values...
+ 
+ I've built a lot of custom graphics functions now, all of which are bolted
+ on to the original framework provided by Dreamtime in his PS2 coding
+ tutorials. Once I have some decent poly texture mapping stuff in place, I'll
+ release the updated code (with comments).  
+ 
+ Thanks to Blackdroid and Adresd for the tips ;)  Big thanks also to eSTRAYk
+ for letting me use another of his wicked tunes...
+ 
+ Raizor/RiSK
+ 
+ÚÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÚÙ                   RiSK - We suck so you don't have to!                   ÚÙ
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙÙ
+

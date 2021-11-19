@@ -1,0 +1,19 @@
+  
+  Evolution, the No Recess/CONDENSE production
+    for round 7 of www.thethirdcreation.net
+
+    Thanks to Vzzrzzn for the module player
+      Thanks to Sjeep for the .ELF packing
+  
+        Original music by Maf/SYNDROME
+ 
+ 
+ Use:
+ - Execute this demo with NapLink.
+ 
+ Legal:
+ - This demo has been used with GCC-EE/NapLink.
+   No Sony libraries are used.
+   
+ Contact:
+ - norecess@planet-d.net

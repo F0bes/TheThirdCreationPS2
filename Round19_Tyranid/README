@@ -1,0 +1,45 @@
+PS2 Patience
+
+A real crappy game for the PS2, entered for round #19 of TheThirdCreation.
+(c) TyRaNiD 2003
+
+Put simply is it a game of patience (or solitaire if you will :P) for the PS2,
+it is mainly a tech demo to show a USB mouse in operation.
+
+If you dont know how to play this game, well, you aint been around computers
+very long. 
+
+Only thing to say is double clicking an open card will put it on the ace piles
+if it will go. The pack is a single draw type cause I hate 3 card :P
+
+Click DEAL to start the game, its that simple :)
+
+Oh you will need a USB mouse mind.
+
+This will work on pukklink _and_ naplink, and has been tested on an old jap PS2
+and a PAL PS2. This game will kill naplink, forcing a manual reset of the PS2. 
+This is because it seems impossible to get Naplink and other USB irxes working
+together, so I just reset the iop :P This does not affect pukklink/ps2link users
+however. 
+
+Disclaimer:
+I have sought and been given permission to distribute the Napalm USB driver 
+within this game, it is NOT for general distribution commerical or otherwise
+so do not ask. In all likelyhood this means that this game cannot be distributed
+either without gaining appropriate permission, which you are unlikely to get,
+so dont ask. This software should only be made available from thethirdcreation.net
+in the context of the round in which it was entered.
+
+On a lighter note :-
+
+Thanx to:
+
+Duke for being generous and giving me permission to distribute his USB driver
+Adresd for testing
+MrBrown for the amazing lmb patch :)
+Sjeep for the rocking packer. Now if I wasn't soo lazy ;)
+Whoever drew the cards for the Gnome AisleRiot game. I am much in your debt...
+
+Greetz to:
+
+Blackdroid, Longchair, Jules, Hiryu, Mookie and anyone else I forget on #ps2dev

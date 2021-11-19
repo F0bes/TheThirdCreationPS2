@@ -1,0 +1,90 @@
+  _____     ___ ____ 
+   ____|   |    ____|      PS2vuharness - VU Competition Harness for Homebrew
+  |     ___|   |____       Copyright (C)2003, adresd (adresd_ps2dev@yahoo.com)
+  ----------------------------------------------------------------------------
+                                                                   Version 0.9
+
+Introduction
+------------
+
+This is a PS2LIB version of a VU code harness.
+It has been developed to let PS2LIB users view and also develop pure VU demos
+along the lines of the PS2Linux competition ones.
+It is compatible with the Playstation2 Linux VU Competition harness.
+
+It was developed using PS2LIB.
+
+It is compatible with the binary vu files for the Linux harness and loads the
+configuration file given with the entries, as is.
+
+It has been tested on both PAL and NTSC machines.
+
+Requirements
+------------
+A set of the entries from the PS2Linux site, or own VU code files.
+Naplink or Pukklink, for host loading of files.
+A PS2.
+A Joypad connected to PORT1 of your PS2.
+
+Controls
+--------
+L1 button cycles forwards through the demos.
+L2 button cycles backwards through the demos.
+SELECT button toggles the help overlay.
+
+Files
+-----
+Wherever this is run from, using Pukklink or Naplink, it expects a subdirectory
+called 'demodata' in the root of the HOST drive.
+
+This directory should contain a 'demotest.ini' file, which gives the entries details.
+The format for this file is taken from the PS2Linux competition one for compatibility.
+
+The format is explained below:
+(Description,VUcodefilename,VUdatafilename,VUhelpfilename)
+
+Description is the description, shown on overlay info page, max len = 256 chars.
+VUcodefilename is the filename of the binary vu code portion (relative to demodata dir)
+VUdatafilename is the filename of the binary vu data portion (relative to demodata dir)
+VUhelpfilename is the filename of the help overlay text (relative to demodata dir)
+
+for example:
+(My Simple VU Text,simple.bin,simple.dat,simple.hlp)
+
+The last ini record must be terminated by a '#' symbol.
+Anything added after the '#' is not considered part of the ini file.
+
+Problems
+--------
+Some entries are not fully working yet, this is being worked on at the moment, but most
+of the already released entries work fine with it. As soon as the last ones are fixed then
+a new version will be released.
+This is mainly to stop ppl moaning to me about the odd one that doesnt seem to work.
+
+Where to get entries
+--------------------
+The best page to view is:
+http://playstation2-linux.com/project/showfiles.php?group_id=99
+
+go there and grab the files, all you want is the demodata directory from each round, and
+combine the .ini files to make one big one.
+
+Source Code
+-----------
+The full source code to the harness will be released soon, as soon as some cleanup is done 
+and the last few tiny problems are solved. Possibly sooner.
+
+Specs for VU Code
+-----------------
+Please refer to the info file within the entries file from playstation2-linux.com, 
+for the specs for the vu code and gs mem usage, as their document is the official one
+and explains it very well.
+
+Thanks
+------
+Thanks for source go to : Duke, Druckluft, Pukko,  ALL PS2LIB contributors.
+Greets to Everyone in ps2dev and who contributed towards it.
+
+
+Hope you enjoy,
+Adresd

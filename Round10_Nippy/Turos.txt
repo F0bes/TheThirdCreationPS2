@@ -1,0 +1,11 @@
+ "TUROS"  -  ROUND #10 of the competition at http://www.thethirdcreation.net/
+ ----------
+Code : NippY    Released: 01-31-2003
+
+
+The demo has been tested on a PAL PS2.
+
+You need naplink to run this demo.
+
+Notes:
+ - Use of EE code only. No VU here. And not very optimised yet...

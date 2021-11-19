@@ -1,0 +1,47 @@
+"BLEND" - Sony Playstation 2 Demo
+---------------------------------------------
+
+This is my entry for round #7 of the competition at
+http://www.thethirdcreation.net/
+
+Code      : adresd
+
+Music     : No One Home - Roland demo tune converted by Dr.Awesome
+Objects &
+Graphics  : adresd
+            
+Released: November 1st 2002
+
+'adresd_blend.elf'
+-----------------------
+This is the main version, with sound.
+The demo has been tested on PAL PS2's, and a NTSC machine, it 
+was coded for PAL and adapted for NTSC. 
+
+You need naplink to run this demo, as it loads an IOP module
+from the HOST directory.
+
+If you have an original JAP machine, you may need to put
+a LIBSD.IRX in your Host directory, as it doesnt seem to
+be present in the BIOS on that machine. The demo will check
+for one and load it from the host if not in rom.
+
+To Run this demo, SJPCM.IRX needs to be in your NAPLINK host
+directory at the root level, if it doesnt find it it wont
+run - its that simple.
+
+SJPCM should be the new V2 one, which is included in the archive
+just in case.
+
+'adresd_blend_nosound.elf'
+--------------------------
+This is a version that doesnt have sound in it, it also does not
+try to load any IRX's and so should work on pretty much anything.
+It is set to run as PAL if it encounters a T10K.
+
+
+
+Hope you enjoy,
+
+adresd
+

@@ -1,0 +1,30 @@
+       /\___ ___ _/\______ /\____ _____   |/
+ .----\\    \  \\_   _    \\     \     \--.-
+ |    /         /    /    /            / /|\
+ |   /   _     /     ____/            /   |
+ `---\\___\___/\____/-DzG\\__/___/___/----'
+  //-Presents-//          _______________
+.________________________/ -[ terrain ]- \_.
+|                                          |
+|        [ Sony Playstation 2 Demo ]       |
+|                                          |
+| wiRe's contribution for round #7 at      |
+| http://www.thethirdcreation.net/         |
+|                                          |
+| get asm5900'n'srcs from my page at       |
+| http://wiRe.napalm-x.com/                |
+|                                          |
+| code by wiRe (100% assembler)            |
+| music by yoga and spiryt                 |
+| mod player by Vzzrzzn                    |
+|                                          |
+| Release Date:                            |
+|  november 1st 2002                       |
+|                                          |
+| Requires:                                |
+|  * PS2 running the napLink target        |
+|  * rom0:LIBSD or host0:LIBSD.IRX file    |
+|  * host0:AMIGAMOD.IRX                    |
+|  * pad connected to port 1 (not!2)       |
+|                                          |
+`------------------------------- [ PS2 ] --'

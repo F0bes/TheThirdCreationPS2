@@ -1,0 +1,21 @@
+  
+ "HappyNewYear2003", the No Recess/CONDENSE compo
+     for round 9 of www.thethirdcreation.net
+
+     Thanks to Vzzrzzn for the module player  
+              Music by Maf/SYNDROME
+ 
+ Use:
+ - Execute this demo with NapLink.
+ 
+ Legal:
+ - This demo has been used with GCC-EE/NapLink.
+   No Sony libraries are used.
+   
+ Notes:
+ - Use of EE code mainly. A bit of VU use here.
+ - Use of jfyeNG, my LightWave scene player
+   available at http://norecess.planet-d.net
+   
+ Contact:
+ - norecess@planet-d.net

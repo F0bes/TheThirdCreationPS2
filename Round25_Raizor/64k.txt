@@ -1,0 +1,22 @@
+Sixtee Fore
+-----------
+
+A 64k intro for round 25 of the TTC competetion.
+
+This intro *should* work OK on both PAL and NTSC
+machines. It has been tested on ps2link and 
+Naplink...
+
+Ran out of time. Hopefully I'll make a extended/
+fixed/improved version at some point...
+
+Credits:
+
+Code & Gfx : Raizor
+Music : Estrayk/Paradox
+
+Thanks to:
+Oopo, Loser, Vzzrzzn, Estrayk, GuNHeD/NPM,
+Wire/NPM, MrBrown...
+
+..raizor..

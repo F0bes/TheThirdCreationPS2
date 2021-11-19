@@ -1,0 +1,37 @@
+t0mb0la's Sparks & Supershapes
+==============================
+The Third Creation #27.
+
+My first TTC entry, nothing spectacular,
+but a good indication of where I'm up to
+at the moment.
+
+I wrote it with C++ (ee-gcc 3.2.2) and
+it utilises libraries from PS2SDK and
+dream_gl. Pretty much all EE code, with
+a little VU macro mode code.
+
+It was my intention to port it all to
+use pbdemolib and VU micro code, but
+as I've not managed this so far, and
+gskit is on the horizon, I decided to
+release as is. Leaving the door open
+for a much better demo sometime soon.
+(I hope)
+
+Press SELECT to switch from the simple
+lorenz to supershapes and back again.
+DPad left & right will switch between
+the four shapes; could have done more,
+but that's your lot!
+
+I'm sure you can figure out the other
+controls. 
+
+The randomness of the Supershape
+generation is very much hit & miss,
+more miss than hit. So the program
+generates some of the interesting
+ones when it loads. You can find some
+'pretty' ones with a little persistance
+though. Just keep pressing CIRCLE! :)

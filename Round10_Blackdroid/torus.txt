@@ -1,0 +1,23 @@
+Torus a 3548 Bytes contribution to round #10
+
+Since I probably wont fix the small texture bug or try to shrink it anymore
+id thought i would release it asis. Only good code is the
+scale/transform/rotate create/apply matrix, the bezier code for
+calculating translate path and the palette, and the rather small (64 bytes)
+sin/cos table generator
+
+torus creation and plasma texture are bloated ( there are actually a couple of
+texture functions that I didnt comment out, blend, add, sub, invert they dont
+take much space anyway )
+
+enough confessions.
+
+until next time.
+
+/blackdroid, Wrath Designs
+
+greets to 
+    adresd, pukko, longchair, jules, sg2, tyranid, icewatus, nagra, duke,
+    wiRe, adk, sjeep, oobles, karmix, mr.brown, nippy, jenova, nik, danzig
+
+    all non idlers on #ps2dev, #psx2dev on efnet and #c-64 on ircnet

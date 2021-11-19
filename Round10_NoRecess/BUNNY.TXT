@@ -1,0 +1,26 @@
+  
+"Bunny Tetris", the No Recess/CONDENSE production
+      for round 10 of www.thethirdcreation.net
+
+        Thanks to SG2 for the MP3 player  
+      Thanks to Pukko for the Pad manager
+      YM-musics extracted from Amstrad-CPC
+ 
+ Use:
+ - Execute this demo with NapLink.
+ 
+ Legal:
+ - This demo has been used with GCC-EE/NapLink.
+   No Sony libraries are used.
+   
+ Notes:
+ - Use of EE code only. No VU here.
+ - Use of jfyeNG (note to adresd: just system code
+   this time, hehe!), my LightWave scene player
+   available at http://norecess.planet-d.net
+
+ - THIS DEMO DOES NOT WORK ON NTSC SYSTEMS.
+   A FIX WILL BE AVAILABLE SOON.
+   
+ Contact:
+ - norecess@planet-d.net

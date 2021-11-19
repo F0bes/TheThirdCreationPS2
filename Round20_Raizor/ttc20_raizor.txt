@@ -1,0 +1,12 @@
+Just some quick, thrown together rubbish...
+
+Haven't had time to make it longer, better (work properly) yet.  I'll try and
+release a *finished/bug free* version for the next compo..
+
+Thanks to MrBrown for SBV (which rocks).
+
+This intro uses Hiryu's cool GsLib, and Adresd's modplayer.
+
+It should work on both PAL and NTSC consoles (NTSC lens effect is a bit screwy tho)
+
+Raizor...

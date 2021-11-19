@@ -1,0 +1,15 @@
+Flame19 is the latest in my addiction to fire demos.
+
+One of the first things I do on any new hardware I program on or new API 
+I learn is to make a fire demo.
+
+As such I've gotten pretty good at fire demos. IMO this looks far 
+better than any other fire demo I've seen.
+
+Other than the much more complex flame generation and a nice effect 
+from the alphablending, there is nothing impressive here.  No VU usage, 
+no music, no spiffy usage of the IOP, no text blended into the flame... 
+Well, I lie.. My name is shown for a moment at the begining but after 
+that it's just a nice looking flame :)
+
+--Drakonite

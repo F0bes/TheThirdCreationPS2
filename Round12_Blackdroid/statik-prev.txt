@@ -1,0 +1,11 @@
+Initial state of this was intended for R12, 
+however a reworked version of this will be released at Breakpoint
+so this little beta is abit empty. /blackdroid
+
+Credits:
+Code, Objects, Textures: blackdroid
+Music: ED
+2D: Zealot
+
+Greetz:
+To all on efnet #ps2dev and #psx2dev

@@ -1,0 +1,18 @@
+  
+  Monalisa, the No Recess/CONDENSE production
+    for round 6 of www.thethirdcreation.net
+
+    Thanks to Vzzrzzn for the module player
+  
+ Original music by Med/CONDENSE (medcg@free.fr)
+ 
+ 
+ Use:
+ - Execute this demo with NapLink.
+ 
+ Legal:
+ - This demo has been used with GCC-EE/NapLink.
+   No Sony libraries are used.
+   
+ Contact:
+ - norecess@planet-d.net

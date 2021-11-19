@@ -1,0 +1,15 @@
+ROUND4 Extra elf's
+---------------------------------------------
+
+This is some extra bonus elfs for roundup #4
+made by blackdroid and kama of Wrath Designs.
+
+screensaver:
+    Code: blackdroid / Wrath Designs
+    Object: Kama / Wrath Designs
+    Greets: Jules'
+
+elf:
+    Code: kama and blackdroid / Wrath Designs
+
+goto: http://www.thethirdcreation.net/

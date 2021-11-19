@@ -1,0 +1,18 @@
+============================================
+= "Cube Mastah" - Sony Playstation 2 Demo  =
+============================================
+
+My entry for round 3 of the psx2dev mini
+compo, once you run it, you will know
+why its named Cube Mastah.
+
+Run with naplink or similar.
+
+
+/Jules
+
+Released: 18th of June 2002
+
+Music/sfx: no
+Works with PAL/NTSC: yes
+

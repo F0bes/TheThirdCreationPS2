@@ -1,0 +1,65 @@
+Hi again, it's the end of July!
+
+
+This is my submission for the #16
+roundup@thethirdcreation.net.
+
+
+Actually the demo shows the state of my experiments on
+PS2 as is was about a month ago (even if I made it
+only few hours ago ;) because:
+
+A. newest stuff is so "experimental" that it basically
+don't run that well (!) and...
+
+B. in the past month I personally tried the exciting
+day/night cycle of insomniac bats (^.^).
+
+
+To develop the demo I used ee-gcc, naplink, ps2lib,
+newlib, dream_gl, blender, gimp and bmp2c.
+
+
+In this release I included both:
+
+1. the usual .elf program that can be sent to the PS2
+using naplink, pukklink, inlink from a PC and...
+
+2. a compressed .iso image that can be burned on a
+normal cdr (after decompressing it!) so it can be used
+by anyone owning a common MODCHIPPED Playstation2[tm];
+no PC <-> PS2 usb link is required;
+on unix/linux for example, run the two programs:
+    gzip -dc colosseum.1.iso.gz >colosseum.1.iso
+    cdrecord dev=0,0 colosseum.1.iso
+put the still warm cd in the PS2 tray, reset and
+enjoy!
+
+note 1: I believe that on win systems winzip and any
+burning program will make the job.
+
+note 2: after 1 minute the demo is running is
+advisable to open and close the cd/dvd tray to stop
+the cd spinning (loading has been completed, the demo
+will keep running).
+
+note 3: the model does not pretend to be accurate nor
+realistic.
+
+note 4: the casted shadow has been archived using a
+sophisticate technique named "fake shadow rendered
+separately and glued on a plane the same color of the
+background (PAT.PEND.;)"...
+
+
+Last but not least I would like to say thankx and
+hello to all the members of the indipendent PS2
+homebrew development community that made all this
+FUNtastic stuff available, usable, documented and
+improved frequently.
+
+Big waves to blackdroid, sjeep, khaled, nagra,
+dreamtime, mr.brown and oobles (met around ps2dev.org,
+thethirdcreation.net and #ps2dev on EFnet).
+
+See ya next month guys.

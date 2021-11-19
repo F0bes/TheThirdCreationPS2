@@ -1,0 +1,14 @@
+ "TRAVEL"  -  ROUND #11 of the competition at http://www.thethirdcreation.net/
+ ----------
+Code : NippY    Released: 02-28-2003
+
+
+The demo has been tested on a PAL PS2.
+
+You need naplink to run this demo.
+
+Notes:
+ - Use of EE code only. No VU here. And not very optimised yet...
+ - Thanks to Vzzrzzn for the module player  
+
+

@@ -1,0 +1,22 @@
+"PS2ROOM" - Sony Playstation 2 Mini-Demo
+---------------------------------------------
+
+This is my entry for round #5 of the competition at
+http://www.thethirdcreation.net/
+
+Code      : No Recess/CONDENSE
+            http://norecess.planet-d.net
+            norecess@planet-d.net
+Graphics  : Xbarr/SYNDROME
+Font      : Yoyo
+            http://yoyo.planet-d.net
+
+Released: September 1st 2002
+
+You need naplink to run this demo, as it loads an IOP module
+from the HOST directory.
+
+Hope you enjoy,
+
+adresd..err no ;) No Recess/CONDENSE !
+

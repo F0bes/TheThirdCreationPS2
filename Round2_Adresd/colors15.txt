@@ -1,0 +1,55 @@
+"Colors of my mind v1.5" - Sony Playstation 2 Demo
+---------------------------------------------
+
+Code : adresd
+
+ModPlayer : adresd
+
+Music : Starworx by 4-Mat
+
+Released: June 1st 2002
+
+This is basically the last demo, with two changes.
+
+Spheres (Basic) with Plasma Texture Mapped onto them.
+
+Modplayer v1.0.
+
+The Modplayer uses SJEEP's SJPCM.IRX to play the actual sound,
+this version only supports NAPLINK at the moment for loading
+the IRX file. Sorry to those of you not using NAPLINK, but
+this was thrown together a bit rushed while I was away from
+my PS2 (so minimal testing).
+
+..
+
+It has been tested on PAL PS2's, and an original JAPANESE PS2
+but not all NTSC machines yet (for the above reasons)
+
+If you have an original JAP machine, you may need to put
+a LIBSD.IRX in your Host directory, as it doesnt seem to
+be present in the BIOS on that machine. The demo will check
+for one and load it from the host if not in rom.
+
+Sorry there are not more original parts in the demo, but I
+was away most of the time between rounds #1 and #2, just 
+wanted to get the modplayer done and outthere, rather than
+wait another month. Sadly that did not leave much time for
+other coding (ie effects)
+
+Hope you enjoy,
+
+adresd
+
+
+BTW, I will release the source to the ModPlayer in the
+week following the deadline for round #2, when I have had
+a bit of a chance to clean the code up a bit.
+This hopefully will start to allow people to put some music
+in their demos and also get some more sound code out there.
+Also show how to use SJEEP's IRX for your own purposes.
+
+To Run this demo, SJPCM.IRX needs to be in your NAPLINK host
+directory at the root level, if it doesnt find it it wont
+run - its that simple.
+

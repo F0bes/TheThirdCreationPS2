@@ -1,0 +1,43 @@
+  
+"Good Bye", the last No Recess/CONDENSE production for www.thethirdcreation.net
+
+ Use:
+ - Execute this demo with NapLink or PukkLink.
+ 
+ Legal:
+ - This demo has been made using GCC-EE/NapLink.
+   No Sony libraries are used.
+   
+ Notes:
+ - Blah :) OpenGL is easy.. so I quickly used DreamGL
+   in order to create my wormhole..
+   (I also tested LibGL.. this last one looks faster than
+   DreamGL, but it has been impossible for me to use
+   texture mapping.. sad!)
+   
+ - This is my last PS2 production. My interests have
+   migrated to pure game development, interactivity
+   really brings new things to code/discover..
+   
+ - A really (and honest) big thanks to my friend SG2
+   (and of course "LC" ;) for being the person who
+   brings me motivation and knowledge for PS2 dev..
+   
+ - A last "hi!" to Adresd for being a so nice challenger :)
+ 
+ - Allez Nippy le code PS2, PC, .. après tout la
+   plateform on s'en tape :D le principal c'est le fun
+   que l'on a à developper.. :] Heureusement que t là
+   au taf, sinon, qu'est ce que je me ferais chier :))
+ 
+ - and of course all the people at #PS2DEV.. 
+
+ - THIS DEMO IS NTSC AND PAL COMPATIBLE ! :)
+ 
+ - THANKS SONY FOR MAKING A SUCH NICE HARDWARE !!
+   
+ Contact:
+ - norecess@planet-d.net
+ 
+ 
+ 20 july 2003, France.

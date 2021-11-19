@@ -1,0 +1,37 @@
+       /\___ ___ _/\______ /\____ _____   |/
+ .----\\    \  \\_   _    \\     \     \--.-
+ |    /         /    /    /            / /|\
+ |   /   _     /     ____/            /   |
+ `---\\___\___/\____/-DzG\\__/___/___/----'
+  //-Presents-//         _______________
+._______________________/ -[ tinyFire ]- \_.
+|                                          |
+|       [ Playstation 2 Micro Demo ]       |
+|                                          |
+| wiRe's contribution for round #10 at     |
+| http://www.thethirdcreation.net/         |
+|                                          |
+| get asm5900'n'srcs from napalms page at  |
+| http://wiRe.napalm-x.com/                |
+|                                          |
+| code by wiRe (100% assembler)            |
+| music: n/a                               |
+|                                          |
+| Release Date:                            |
+|  February 1st 2003                       |
+|                                          |
+| Notes:                                   |
+|  I got the idea for a super small fiRe   |
+|  when i watched TyRaNiD's STENCH on the  |
+|  last roundup. It wastes only 720 bytes  |
+|  of ur mem, so try to beat this baby :)  |
+|  There are still some ways to kill some  |
+|  few more bytes, but further op's may    |
+|  reduce the quality. Also it was made    |
+|  within one day, deadline now.           |
+|                                          |
+| Requires:                                |
+|  * PS2 running the napLink target        |
+|  * no expections                         |
+|                                          |
+`------------------------------- [ PS2 ] --'

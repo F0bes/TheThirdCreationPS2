@@ -1,0 +1,17 @@
+ "ICE"  -  ROUND #13 of the competition at http://www.thethirdcreation.net/
+ ----------
+Code : NippY    Released: 04-30-2003
+
+
+The demo has been tested on a PAL PS2.
+
+You need naplink or pukklink to run this demo.
+
+Notes:
+- a lot of data not compressed :(   not enought time...
+- use of VUs implemented but not used for this entrie .... some bugz...  perhaps next time
+
+Thanks and greets to:
+ - greets to all people on #ps2dev
+
+

@@ -1,0 +1,19 @@
+
+===============================================================================
+Hell Bell by Lukasz Bruun, dec. 2003
+===============================================================================
+
+Well here it is.. Compared to my last demo "Damn", this isn't really anything
+special. Only real new thing is that it now loads a .3ds model.
+It looks pretty crappy in wireframe, but due to some zbuffer issues and lack of
+time (its now new years eve) I wasn't able to get it runnig with gouraud shade, 
+which was the original idea.. oh well, there is always next month..
+
+It should work on both NTSC and PAL consoles. I've only tested it in Naplink.
+
+Also if you don't have LIBSD in your BIOS, then just put it in the demo dir, named
+libsd.irx, if neither exist, it will run without sound.
+
+Merry xmas & happy new year!
+
+Lukasz Bruun

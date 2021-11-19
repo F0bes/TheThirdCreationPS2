@@ -1,0 +1,35 @@
+  
+ "R-ELEVEN", the No Recess/CONDENSE production
+   for round 11 of www.thethirdcreation.net
+ 
+ Use:
+ - Execute this demo with NapLink or InLink.
+ 
+ Legal:
+ - This demo has been made using with GCC-EE/NapLink.
+   No Sony libraries are used.
+   
+ Credits:
+ - Programming, XM Player & JPEG Reader ports by No Recess/CONDENSE
+ - Video from cool guyz at Bordeaux/FRANCE, the city I currently live.
+ - Music by P-rat/Haujobb (this is a rip! I'm lammmme!!)
+ - Moral support provided by all the cool #PS2DEV people
+ - PCM Manager by Sjeep (hi! ;)
+ 
+ Notes:
+ - Runs OK on NTSC and PAL systems (yeah, I fixed my ScreenInit() =)
+ - My Windows says "0.99 Mb"! (the 1024Kb limit is respected this time!)
+ - I'm not totally happy with this prod..  
+   Plasma+Vumeter then Video fits very well to the music, but the
+   other effects are just skinning and filling..
+   DEMO IS ART. It's very hard to get something enjoyable.
+
+ Greetings:
+ - CONDENSE Members: Med and Jylam! Next demo will use Med music for sure!
+ - PS2DEV People: Napalm, SG2, LongChair, Oobles, Pukko, Sjeep, Adresd, Nippy,
+                  Dreamtime, Blackdroid, Napalm, MrBrown, Tyranid, Wire..
+ - PCSX2 Team: You are making an incredible work with your emulator! 
+               Can't wait for future releases..
+   
+ Contact & informations:
+ - http://norecess.planet-d.net

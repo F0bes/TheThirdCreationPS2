@@ -1,0 +1,58 @@
+"meatballs" - Sony Playstation 2 Demo
+---------------------------------------------
+
+This is my entry for round #8 of the competition at
+http://www.thethirdcreation.net/
+
+Code      : adresd
+Music     : Subi
+Objects &
+Graphics  : adresd
+            
+Released: December 8th 2002
+
+The demo has been tested on a PAL PS2, and a NTSC machine, it 
+was coded for PAL and adapted for NTSC. 
+
+You need naplink to run this demo, as it loads an IOP module
+from the HOST directory.
+
+If you have an original JAPANESE machine, you may need to put
+a LIBSD.IRX in your Host directory, as it doesnt seem to
+be present in the BIOS on that machine. The demo will check
+for one and load it from the host if not in rom.
+
+You should also have SJPCM.IRX your NAPLINK host directory.
+
+SJPCM should be the new V2 one, which is included in the archive
+just in case.
+
+If it doesnt find either of these files, it will go into 'no sound'
+mode.
+
+Hope you enjoy,
+
+adresd
+
+--
+
+Tech Info:
+All Objects (3D Data) are generated, none loaded from elf
+The moving metaballs are realtime generated
+All transform code is cop2 (vu0 macro)
+GS transfer is via vu1
+The music is an 80KB MOD file
+Highest tri count in PAL mode of the demo is 28Ktri/frame
+
+--
+
+Thanks and greets to:
+Sjeep for SJPCM and the base Sjc
+Blackdroid for organising the mini-comp
+Oobles for hosting ps2dev.livemedia.com.au and all the contributors to the site
+Napalm for releasing Naplink
+Everyone involved in ps2lib and ps2dev in general
+Everyone who enters the mini-comps
+Everyone who chats to me on IRC
+
+(sry, but the list would have been too big otherwise)

@@ -1,0 +1,21 @@
+  
+"Lobotomia", the No Recess/CONDENSE production
+    for round 8 of www.thethirdcreation.net
+
+    Thanks to Vzzrzzn for the module player  
+        Original music by Maf/SYNDROME 
+ 
+ Use:
+ - Execute this demo with NapLink.
+ 
+ Legal:
+ - This demo has been used with GCC-EE/NapLink.
+   No Sony libraries are used.
+   
+ Notes:
+ - Use of EE code only. No VU here.
+ - Use of jfyeNG, my LightWave scene player
+   available at http://norecess.planet-d.net
+   
+ Contact:
+ - norecess@planet-d.net

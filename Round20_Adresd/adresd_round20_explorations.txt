@@ -1,0 +1,65 @@
+"Explorations in Testing" - Sony Playstation 2 Demo
+---------------------------------------------
+
+This is my entry for round #20 of the competition at
+http://www.thethirdcreation.net/
+
+Code, Objects and Graphics : adresd
+Music                      : Simon and zyx
+            
+Released: 1st December 2003
+
+This is basically some things I was playing around with while 
+developing my new framework, thrown together into a demo.
+There are a few minor problems, so dont jump all over me about
+them. Its more a snapshot of WIP than anything, and to try and
+break the 2 month gap :)
+
+..
+
+The demo has been tested on a PAL PS2, and a NTSC machine, it 
+was coded for PAL and adapted for NTSC. 
+
+You need naplink or pukklink to run this demo, as it loads an
+IOP module from the HOST directory.
+
+If you have an original JAPANESE machine, you may need to put
+a LIBSD.IRX in your Host directory, as it doesnt seem to
+be present in the BIOS on that machine. The demo will check
+for one and load it from the host if not in rom.
+
+You should also have SJPCM21A.IRX in your HOST directory.
+
+SJPCM should be the new V2.1a one, which is included in the archive
+just in case. This has a different name to the usual one just in case.
+
+If you have problems with the irx loading in pukklink, then delete the
+SJPCM21A.IRX and rename SJPCM21A_ALT.IRX to SJPCM21A.IRX and re-run.
+The problem does not exhibit itself on naplink, and only it seems on
+some versions of pukklink and not consistently. I am tracking it down
+but time constraints got in the way for finishing in time for ttc20.
+If you have naplink then run this via naplink if possible using the 
+original SJPCM21A.IRX file.
+
+Hope you enjoy,
+
+adresd
+
+--
+
+Tech Info:
+The music is two MOD files, totalling 67K of data.
+
+--
+
+Thanks and greets to:
+Sjeep for SJPCM base.
+Blackdroid for organising the mini-comp
+Oobles for hosting ps2dev.livemedia.com.au and all the contributors to the site
+Napalm for releasing Naplink
+Everyone involved in ps2ip, pukklink and pksh/inlink
+Everyone involved in ps2lib and ps2dev in general
+Everyone who has entered the mini-comps
+Everyone who chats to me on IRC
+
+(sry, but the list would have been too big otherwise)
